@@ -68,8 +68,8 @@ The simulation prints the output at definite times, chosen by the user in the fi
 Also the total energy _vs_ time $\{t,E(t)\}$, for every time-step, is written in **energy_vs_time.dat**
 
 ### Author:
-**Sugan Durai Murugan**
-Research Scholar, 
-International Centre for Theoretical Sciences,
-Tata Institute of Fundamental Research,
+**Sugan Durai Murugan** \
+Research Scholar, \
+International Centre for Theoretical Sciences,\
+Tata Institute of Fundamental Research,\
 Bangalore, India.
